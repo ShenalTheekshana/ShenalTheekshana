@@ -2,9 +2,7 @@
 I’m a mechanical engineering graduate from university of Moratuwa, Sri Lanka and I'm passionated in problem solving, programming, new trends in engineering and how 
 they can be utilized to leave a better environmental footprint as humans. My undergraduate studies are focused towards thermodynamics and energy while I possess experiences
 in C++ and Matlab programming in various projects I have worked on. You can find me on LinkedIn https://www.linkedin.com/in/shenal-theekshana/ and Twiiter https://twitter.com/shenalsamare
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 ShenalTheekshana/ShenalTheekshana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
